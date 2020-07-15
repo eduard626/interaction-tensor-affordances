@@ -55,7 +55,7 @@ We provide a smaller training/validation dataset (and some auxiliary data) to ge
 |   +-- dump/
 ```
 ##### Single-affordance Tensors
-The 84 tensors for all the affordances considered for our experiments will be available soon. If want to start building your own, have a look at our [previous work](https://github.com/eduard626/interaction-tensor). You will need CAD models for training the affordances/interactions
+The 84 tensors for all the affordances considered for our experiments is available [here](https://drive.google.com/drive/folders/1n-0ZtlfEWInC-cOT9SEOWhkFT2l7Ze57?usp=sharing). If want to start building your own, have a look at our [previous work](https://github.com/eduard626/interaction-tensor). You will need CAD models for training the affordances/interactions
 of interest.
 
 #### Multiple-affordance multi-label datasets
