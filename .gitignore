@@ -1,0 +1,9 @@
+*.pyc
+data/*
+dump/*
+log/*
+*.h5
+*.pcd
+*.npy
+*.dat
+*.csv
