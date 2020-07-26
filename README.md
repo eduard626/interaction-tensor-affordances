@@ -1,9 +1,10 @@
 # Multiple affordance detection code and data.
 This repo contains the implementation of our paper "[Geometric Affordance Perception: Leveraging Deep 3D Saliency With the Interaction Tensor](https://www.frontiersin.org/articles/10.3389/fnbot.2020.00045)", from Eduardo Ruiz and Walterio Mayol-Cuevas at the University of Bristol, UK.
 
-<p align="center">
+<!-- <p align="center">
 	<img src="https://media.giphy.com/media/jRYPXFp9Iveo0GqZpK/giphy.gif" alt="photo not available" height="50%">
-</p>
+</p> -->
+![Demo](img/output720.gif)
 
 If you use our code or method in your work, please cite the following:
 ```
